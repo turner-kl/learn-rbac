@@ -1,6 +1,6 @@
 import React, { FC } from "react";
-import { check } from "../../check";
-import rules from "../../rbac-rules";
+import { check } from "../../../check";
+import rules from "../../../rbac-rules";
 
 type Props = {
   role: string;
